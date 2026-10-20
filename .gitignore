@@ -1,0 +1,12 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+.env*
+*.tar.gz
+.openai/local-state/
+.npm-cache/
+.sites-runtime/
+artifacts/
+node_modules.previous/
+package-lock.previous.json
